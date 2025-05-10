@@ -1,29 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "jyskeCIgUBI=",
+  "dgSpecHash": "vXchLINUBFo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\Movies.Api.csproj",
+  "projectFilePath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/Movies.Api.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.3.25171.5\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
-    "C:\\Users\\aabulikeli\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+    "/Users/Ghani_Hakim/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.3.25171.5/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.3.25171.5.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/Ghani_Hakim/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://proget.fd.fnac.com/nuget/FnacNuGet/v3/index.json."
-    },
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://proget.fd.fnac.com/nuget/DefaultNuGet/v3/index.json."
-    }
-  ]
+  "logs": []
 }

@@ -1,44 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\Movies.Api.csproj": {}
+    "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/Movies.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\Movies.Api.csproj": {
+    "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/Movies.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\Movies.Api.csproj",
+        "projectUniqueName": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/Movies.Api.csproj",
         "projectName": "Movies.Api",
-        "projectPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\Movies.Api.csproj",
-        "packagesPath": "C:\\Users\\aabulikeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Api\\obj\\",
+        "projectPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/Movies.Api.csproj",
+        "packagesPath": "/Users/Ghani_Hakim/.nuget/packages/",
+        "outputPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\aabulikeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/Ghani_Hakim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/DefaultNuGet/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/FnacNuGet/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj": {
-                "projectPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj"
+              "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/Movies.Application.csproj": {
+                "projectPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/Movies.Application.csproj"
               },
-              "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj": {
-                "projectPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj"
+              "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/Movies.Contracts.csproj": {
+                "projectPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/Movies.Contracts.csproj"
               }
             }
           }
@@ -47,11 +40,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,35 +70,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj": {
+    "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/Movies.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
+        "projectUniqueName": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/Movies.Application.csproj",
         "projectName": "Movies.Application",
-        "projectPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
-        "packagesPath": "C:\\Users\\aabulikeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Application\\obj\\",
+        "projectPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/Movies.Application.csproj",
+        "packagesPath": "/Users/Ghani_Hakim/.nuget/packages/",
+        "outputPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Application/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\aabulikeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/Ghani_Hakim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/DefaultNuGet/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/FnacNuGet/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -122,20 +103,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.0-preview.3.25171.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [
@@ -154,35 +138,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj": {
+    "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/Movies.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj",
+        "projectUniqueName": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/Movies.Contracts.csproj",
         "projectName": "Movies.Contracts",
-        "projectPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj",
-        "packagesPath": "C:\\Users\\aabulikeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aabulikeli\\RiderProjects\\Movies.Api\\Movies.Contracts\\obj\\",
+        "projectPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/Movies.Contracts.csproj",
+        "packagesPath": "/Users/Ghani_Hakim/.nuget/packages/",
+        "outputPath": "/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\aabulikeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/Ghani_Hakim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/DefaultNuGet/v3/index.json": {},
-          "https://proget.fd.fnac.com/nuget/FnacNuGet/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -194,11 +171,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -220,7 +192,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
