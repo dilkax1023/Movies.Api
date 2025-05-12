@@ -261,3 +261,12 @@ __pycache__/
 *.pyc
 /obj/
 .DS_Store
+
+# Rider for mac
+.idea_modules/
+Movies.Api/bin/Debug/net8.0
+Movies.Api/obj
+Movies.Application/obj
+Movies.Application/bin/Debug/net8.0
+Movies.Contracts/obj
+Movies.Contracts/bin/Debug/net8.0

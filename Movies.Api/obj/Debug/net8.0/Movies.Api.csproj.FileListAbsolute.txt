@@ -76,3 +76,5 @@ C:/Users/aabulikeli/RiderProjects/Movies.Api/Movies.Api/obj/Debug/net8.0/ref/Mov
 /Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/bin/Debug/net8.0/Dapper.dll
 /Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/bin/Debug/net8.0/Npgsql.dll
+/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/bin/Debug/net8.0/FluentValidation.dll
+/Users/Ghani_Hakim/developement/c#/dometrain/Movies.Api/Movies.Api/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll

@@ -1,17 +1,22 @@
+using FluentValidation;
 using Movies.Application.Models;
 using Movies.Application.Repositories;
+using Movies.Application.Validators;
 
 namespace Movies.Application.Services;
 
-public class MovieService(IMovieRepository movieRepository) : IMovieService
+public class MovieService(IMovieRepository movieRepository, IValidator<Movie> movieValidator)
+    : IMovieService
 {
-    public Task<bool> CreateAsync(Movie movie, CancellationToken cancellationToken)
+    public async Task<bool> CreateAsync(Movie movie, CancellationToken cancellationToken)
     {
-        return movieRepository.CreateAsync(movie, cancellationToken);
+        await movieValidator.ValidateAndThrowAsync(movie, cancellationToken);
+        return await movieRepository.CreateAsync(movie, cancellationToken);
     }
 
     public async Task<Movie?> UpdateAsync(Movie movie, CancellationToken cancellationToken)
     {
+        await movieValidator.ValidateAndThrowAsync(movie, cancellationToken);
         var existingMovie = await movieRepository.GetByIdAsync(movie.Id, cancellationToken);
         if (existingMovie is null)
         {
