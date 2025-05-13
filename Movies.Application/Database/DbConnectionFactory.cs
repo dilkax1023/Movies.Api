@@ -5,15 +5,15 @@ namespace Movies.Application.Database;
 
 public class DbConnectionFactory(string connectionString) : IDbConnectionFactory
 {
-    public async Task<IDbConnection> CreateConnectionAsync()
+    public async Task<IDbConnection> CreateConnectionAsync(CancellationToken cancellationToken)
     {
         var connection = new NpgsqlConnection(connectionString);
-        await connection.OpenAsync();
+        await connection.OpenAsync(cancellationToken);
         return connection;
     }
 }
 
 public interface IDbConnectionFactory 
 {
-    Task<IDbConnection> CreateConnectionAsync();
+    Task<IDbConnection> CreateConnectionAsync(CancellationToken cancellationToken);
 }
